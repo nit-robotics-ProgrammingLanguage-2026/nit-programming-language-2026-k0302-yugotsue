@@ -1,0 +1,13 @@
+schema: "classroom50/repo-config/v1"
+classroom: "nit-programming-language-2026"
+assignment: "k0302"
+secret: "nmm2dsr0"
+owner:
+  username: "YugoTsue"
+  id: 337916896
+  accepted_at: "2026-10-12T03:20:24Z"
+source:
+  owner: "nit-robotics-ProgrammingLanguage-2026"
+  owner_id: 326343566
+  repo: "template-task0302-scanf_double"
+  branch: "main"
